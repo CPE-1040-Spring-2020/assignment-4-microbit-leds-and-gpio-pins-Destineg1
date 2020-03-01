@@ -98,3 +98,5 @@ _TODO: Record and describe your circuit measurements and calculations here._
 ## Demo videos
 
 _TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+https://imgur.com/gallery/4KttEtp
+https://imgur.com/gallery/85MN7O8?s=sms
